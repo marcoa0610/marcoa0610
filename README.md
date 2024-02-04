@@ -3,7 +3,6 @@
 - 🔭 I’m currently studying on ITR 
 - 🇸🇻 I'm from El Salvador 
 - 🇺🇸 I speak Spanish and English
-- 📕 Currently learning French
 - 🦝 I love raccoons!
 
 
