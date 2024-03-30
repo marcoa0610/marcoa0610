@@ -4,15 +4,6 @@
 - 🇸🇻 I'm from El Salvador 
 - 🇺🇸 I speak Spanish and English
 - 🦝 I love raccoons!
-
-
- 
-<p>
-
- 💻 &emsp; I study code cause i wanna do somethin' great! <br/><br/>
- 
-</p>
-
 <br/>
 <br/>
 <br/>
