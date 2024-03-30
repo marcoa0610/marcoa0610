@@ -4,10 +4,6 @@
 - 🇸🇻 I'm from El Salvador 
 - 🇺🇸 I speak Spanish and English
 - 🦝 I love raccoons!
-<br/>
-<br/>
-<br/>
-
 
 ## Technologies 👨‍🔧
 
