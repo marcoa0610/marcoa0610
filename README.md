@@ -6,6 +6,18 @@
 - 🦝 I love raccoons!
 
 
+ 
+<p>
+
+ 💻 &emsp; I study code cause i wanna do somethin' great! <br/><br/>
+ 
+</p>
+
+<br/>
+<br/>
+<br/>
+
+
 ## Technologies 👨‍🔧
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]()
