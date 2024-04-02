@@ -1,5 +1,5 @@
-# Hello 
-# World My name is Marcos López and am a Software Development student 🦝📚
+# Hello World
+# My name is Marcos López and am a Software Development student 🦝📚
 
 - 🔭 I’m currently studying on ITR 
 - 🇸🇻 I'm from El Salvador 
