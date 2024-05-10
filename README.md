@@ -5,6 +5,7 @@
 - 🇸🇻 I'm from El Salvador 
 - 🇺🇸 ENG & SPN
 - 🦝 I love raccoons!
+- 📚 Currently learning Kotlin
 
 ## Technologies 👨‍🔧
 
