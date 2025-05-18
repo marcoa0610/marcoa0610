@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying on ITR 
 - 🇸🇻 I'm from El Salvador 
 - 🇺🇸 ENG & SPN
-- 📚 Currently learning Kotlin
+- 📚 Currently learning MERN ☕
 - 🦝 I love raccoons!
 
 
