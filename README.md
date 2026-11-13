@@ -41,6 +41,8 @@ const marcos = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📚 Aprendiendo Actualmente
+![Python]([https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo
+))
 
 
 ---
@@ -66,12 +68,10 @@ const marcos = {
 
 <div align="center">
   
-  ### 🦝 "El código es como los mapaches: inteligente, adaptable y a veces un poco travieso"
-  
-  ![Visitor Count](https://profile-counter.glitch.me/tu-usuario/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/marcoa0610/count.svg)
   
 </div>
 
 ---
 
-⭐️ From [Marcos López](https://github.com/tu-usuario) with 🦝 and ☕
+⭐️ From [Marcos López](https://github.com/marcoa0610) with 🦝 and ☕
